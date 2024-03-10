@@ -20,7 +20,6 @@ Digitaal Personeelsdossier
 
 Alle personeelsgegevens digitaal op één centrale plaats GDPR proof!
 
-[
 
 *   Online
 *   Op 1 plaats
@@ -31,7 +30,6 @@ Alle personeelsgegevens digitaal op één centrale plaats GDPR proof!
 *   Workflow
 *   Employee Self Service
 
-![](/wp-content/uploads/2020/10/Navigation-Right-Circle-1-Alternate-1.png)](/hrm-pakket/digitaal-personeelsdossier/)
 
 ![](/wp-content/uploads/2020/10/icon-loonpakket.png)
 
@@ -39,7 +37,6 @@ Hard HR
 
 Een persoonlijk loonpakket zonder een stijging van de loonkost.
 
-[
 
 *   Loon
 *   Loonafsluiting
@@ -49,7 +46,6 @@ Een persoonlijk loonpakket zonder een stijging van de loonkost.
 *   Extralegale voordelen
 *   Employee Self Service
 
-![](/wp-content/uploads/2020/10/Navigation-Right-Circle-1-Alternate-1.png)](/hrm-pakket/loonpakket/)
 
 ![](/wp-content/uploads/2020/10/icon-soft-hr.png)
 
@@ -57,7 +53,6 @@ Soft HR
 
 Opleiding, evaluaties en vacatures, voortaan ook uw cup of tea!
 
-[
 
 *   (Verplichte) Opleiding
 *   Certificaten
@@ -67,7 +62,6 @@ Opleiding, evaluaties en vacatures, voortaan ook uw cup of tea!
 *   Werving en selectie
 *   Employee Self Service
 
-![](/wp-content/uploads/2020/10/Navigation-Right-Circle-1-Alternate-1.png)](/hrm-pakket/soft-hr/)
 
 ![](/wp-content/uploads/2020/10/icon-tijd.png)
 
@@ -75,7 +69,6 @@ Tijdsregistratie
 
 Een betrouwbaar tijdsregistratiesysteem vermijdt (wettelijke) discussies.
 
-[
 
 *   Tikklok
 *   Vakantie
@@ -84,7 +77,7 @@ Een betrouwbaar tijdsregistratiesysteem vermijdt (wettelijke) discussies.
 *   Real Time dashboards
 *   Employee Self Service
 
-![](/wp-content/uploads/2020/10/Navigation-Right-Circle-1-Alternate-1.png)](/hrm-pakket/tijd/)
+
 
 Flexibel verlonen
 =================
